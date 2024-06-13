@@ -1,4 +1,4 @@
-name: hello-world
+name: hello CICD world
 on: push
 jobs:
   my-job:
